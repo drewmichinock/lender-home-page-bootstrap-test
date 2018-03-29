@@ -32,9 +32,25 @@ h6 {
   color: #066178 !important;
 }
 
-/*.text-primary {
-  color: #066178 !important;
-}*/
+/* unvisited link */
+a:link {
+    color: #066178;
+}
+
+/* visited link */
+a:visited {
+    color: #D54F29;
+}
+
+/* mouse over link */
+a:hover {
+    color: #D54F29;
+}
+
+/* selected link */
+a:active {
+    color: #D54F29;
+}
 
 #mainNav {
     border-color: rgba(34, 34, 34, 0.05);
