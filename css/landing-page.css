@@ -16,6 +16,18 @@ h6 {
   width: 200px;
 }
 
+.btn-primary {
+  color: #fff;
+  background-color: #066178;
+  border-color: #066178;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #D54F29;
+    border-color: #D54F29;
+}
+
 #mainNav {
     border-color: rgba(34, 34, 34, 0.05);
     background-color: white;
