@@ -28,6 +28,14 @@ h6 {
     border-color: #D54F29;
 }
 
+.text-primary, li.list-inline-item>a {
+  color: #066178 !important;
+}
+
+/*.text-primary {
+  color: #066178 !important;
+}*/
+
 #mainNav {
     border-color: rgba(34, 34, 34, 0.05);
     background-color: white;
